@@ -13,6 +13,9 @@ Activate Environment:
 Install Langchain and OpenAI modules:
 `conda install -c conda-forge langchain openai`
 
+Install additional Langchain modules:
+`pip install langchain_openai langchain_community`
+
 Install Jupyter Notebook:
 `conda install jupyter`
 
